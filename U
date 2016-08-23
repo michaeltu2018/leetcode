@@ -1,0 +1,44 @@
+146	LRU Cache	15.8%	Hard	
+139	Word Break	26.4%	Medium	
+10	Regular Expression Matching	22.7%	Hard	
+297	Serialize and Deserialize Binary Tree	29.4%	Hard	
+54	Spiral Matrix	23.5%	Medium	
+36	Valid Sudoku	32.1%	Easy	
+49	Group Anagrams	29.3%	Medium	
+17	Letter Combinations of a Phone Number	30.2%	Medium	
+262	Trips and Users	15.4%	Hard	
+290	Word Pattern	30.7%	Easy	
+13	Roman to Integer	41.4%	Easy	
+138	Copy List with Random Pointer	26.2%	Hard	
+1	Two Sum	25.7%	Easy	
+39	Combination Sum	33.0%	Medium	
+380	Insert Delete GetRandom O(1)	35.0%	Hard	
+291	Word Pattern II 	36.1%	Hard	
+22	Generate Parentheses	39.1%	Medium	
+24	Swap Nodes in Pairs	36.2%	Easy	
+208	Implement Trie (Prefix Tree)	25.5%	Medium	
+254	Factor Combinations 	37.2%	Medium	
+133	Clone Graph	24.9%	Medium	
+91	Decode Ways	18.1%	Medium	
+186	Reverse Words in a String II 	29.0%	Medium	
+202	Happy Number	37.9%	Easy	
+37	Sudoku Solver	26.3%	Hard	
+249	Group Shifted Strings 	34.4%	Easy	
+242	Valid Anagram	43.5%	Easy	
+23	Merge k Sorted Lists	24.5%	Hard	
+230	Kth Smallest Element in a BST	39.8%	Medium	
+206	Reverse Linked List	41.3%	Easy	
+76	Minimum Window Substring	22.3%	Hard	
+125	Valid Palindrome	24.6%	Easy	
+33	Search in Rotated Sorted Array	31.0%	Hard	
+140	Word Break II	20.8%	Hard	
+104	Maximum Depth of Binary Tree	49.2%	Easy	
+161	One Edit Distance 	29.4%	Medium	
+337	House Robber III	39.4%	Medium	
+8	String to Integer (atoi)	13.7%	Easy	
+121	Best Time to Buy and Sell Stock	37.3%	Easy	
+266	Palindrome Permutation 	52.7%	Easy	
+171	Excel Sheet Column Number	43.6%	Easy	
+78	Subsets	33.6%	Medium	
+373	Find K Pairs with Smallest Sums	27.2%	Medium	
+155	Min Stack	24.1%	Easy
