@@ -25,6 +25,11 @@ directory.get();
 directory.check(2);
 
 // Release number 2 back to the pool.
+
+
+Google
+
+LinkedList, Design
 directory.release(2);
 
 // Number 2 is available again, return true.
