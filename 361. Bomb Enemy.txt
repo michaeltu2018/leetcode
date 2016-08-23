@@ -10,3 +10,8 @@ E 0 W E
 0 E 0 0
 
 return 3. (Placing a bomb at (1,1) kills 3 enemies)
+
+
+Google
+
+DP
