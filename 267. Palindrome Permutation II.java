@@ -1,4 +1,5 @@
 public class Solution {
+    //Time Complexity - O(2^n)
     public List<String> generatePalindromes(String s) {
         List<String> res = new ArrayList<>();
         Map<Character,Integer> map = new HashMap<>();
