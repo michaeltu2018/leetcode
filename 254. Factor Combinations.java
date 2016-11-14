@@ -14,9 +14,12 @@ public class Solution {
             return;
         }
         for(int i=cur;i<=Math.sqrt(n);i++){
+            /*
+            the following code is not necessary, coz last element in list is always smaller than or equal to cur.
             if(list.size() >= 1 && list.get(list.size()-1) > i){
                 continue;
             }
+            */
             if(n%i==0){
                 list.add(i);
                 helper(list,n/i,i);
