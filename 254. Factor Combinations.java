@@ -1,4 +1,5 @@
 public class Solution {
+    //Time Complexity - O(2^n)
     List<List<Integer>> res = new ArrayList<List<Integer>>();
 
     public List<List<Integer>> getFactors(int n) {
