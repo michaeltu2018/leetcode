@@ -27,3 +27,27 @@ public class Solution {
         }
     }
 }
+
+// iterative
+public int closestValue(TreeNode root, double target) {
+        TreeNode greater = null;
+        TreeNode smaller = null;
+        while(root != null) {
+            if(root.val == target) {
+                return root.val;
+            } else if(root.val < target) {
+                smaller = root;
+                root = root.right;
+            } else {
+                greater = root;
+                root = root.left;
+            }
+        }
+        if(greater == null) {
+            return smaller.val;
+        }
+        if(smaller == null) {
+            return greater.val;
+        }
+        return (greater.val - target) < (target - smaller.val) ? greater.val : smaller.val;
+    }
