@@ -28,3 +28,46 @@ public class Solution {
         return q.size();
     }
 }
+
+
+
+/**
+ * Definition for an interval.
+ * public class Interval {
+ *     int start;
+ *     int end;
+ *     Interval() { start = 0; end = 0; }
+ *     Interval(int s, int e) { start = s; end = e; }
+ * }
+ */
+public class Solution {
+    public int minMeetingRooms(Interval[] intervals) {
+        if(intervals == null || intervals.length == 0){
+            return 0;
+        }
+        int[] starts = new int[intervals.length];
+        int[] ends = new int[intervals.length];
+        for(int i=0;i<intervals.length;i++){
+            starts[i] = intervals[i].start;
+            ends[i] = intervals[i].end;
+        }
+        Arrays.sort(starts);
+        Arrays.sort(ends);
+        int x=0;
+        int y=0;
+        int rooms = 0;
+        int maxRooms = 0;
+        while(x<intervals.length && y <intervals.length){
+            if(starts[x] < ends[y]){
+                rooms++;
+                maxRooms = Math.max(rooms, maxRooms);
+                x++;
+            }
+            else{
+                y++;
+                rooms--;
+            }
+        }
+        return maxRooms;
+    }
+}
