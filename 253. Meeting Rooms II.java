@@ -6,6 +6,7 @@
  *     Interval() { start = 0; end = 0; }
  *     Interval(int s, int e) { start = s; end = e; }
  * }
+ * N*log(N) + N*log(N) -> O(N*log(N))
  */
 public class Solution {
     public int minMeetingRooms(Interval[] intervals) {
@@ -39,6 +40,7 @@ public class Solution {
  *     Interval() { start = 0; end = 0; }
  *     Interval(int s, int e) { start = s; end = e; }
  * }
+ * N*log(N) + N*log(N) + N -> O(N*log(N))
  */
 public class Solution {
     public int minMeetingRooms(Interval[] intervals) {
