@@ -18,7 +18,7 @@
 285	Inorder Successor in BST 	36.2%	Medium	
 76	Minimum Window Substring	23.6%	Hard	
 200	Number of Islands	32.0%	Medium	
-157	Read N Characters Given Read4 	29.4%	Easy	
+157	Read N Characters Given Read4 	29.4%	Easy	 DONE
 282	Expression Add Operators	28.3%	Hard	
 23	Merge k Sorted Lists	25.7%	Hard	
 257	Binary Tree Paths	34.4%	Easy	
