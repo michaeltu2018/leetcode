@@ -23,7 +23,7 @@
 23	Merge k Sorted Lists	25.7%	Hard	
 257	Binary Tree Paths	34.4%	Easy	
 56	Merge Intervals	28.2%	Hard	
-121	Best Time to Buy and Sell Stock	38.9%	Easy	
+121	Best Time to Buy and Sell Stock	38.9%	Easy	 todo
 173	Binary Search Tree Iterator	38.7%	Medium	
 211	Add and Search Word - Data structure design	20.1%	Medium	
 1	Two Sum	29.5%	Easy	
@@ -45,9 +45,9 @@
 38	Count and Say	32.3%	Easy	
 238	Product of Array Except Self	46.8%	Medium	
 209	Minimum Size Subarray Sum	28.4%	Medium	
-377	Combination Sum IV	41.5%	Medium	
+377	Combination Sum IV	41.5%	Medium	 todo
 71	Simplify Path	23.9%	Medium	
-380	Insert Delete GetRandom O(1)	38.0%	Hard	
+380	Insert Delete GetRandom O(1)	38.0%	Hard	done
 13	Roman to Integer	43.2%	Easy	
 215	Kth Largest Element in an Array	37.2%	Medium	
 90	Subsets II	33.6%	Medium	
