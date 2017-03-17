@@ -67,7 +67,7 @@
 69	Sqrt(x)	26.8%	Medium	
 20	Valid Parentheses	31.9%	Easy	
 235	Lowest Common Ancestor of a Binary Search Tree	38.0%	Easy	
-269	Alien Dictionary 	22.5%	Hard	
+269	Alien Dictionary 	22.5%	Hard	k
 68	Text Justification	18.0%	Hard	
 221	Maximal Square	26.9%	Medium	
 274	H-Index	31.9%	Medium	
