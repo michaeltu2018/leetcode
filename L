@@ -1,4 +1,4 @@
-	1	Two Sum	25.7%	Easy	
+1	Two Sum	25.7%	Easy	
 21	Merge Two Sorted Lists	36.6%	Easy	
 23	Merge k Sorted Lists	24.5%	Hard	
 33	Search in Rotated Sorted Array	31.0%	Hard	（followup 81 (duplicate)）
@@ -6,7 +6,7 @@
 46	Permutations	37.7%	Medium	
 47	Permutations II	29.3%	Medium	
 50	Pow(x, n)	27.6%	Medium	
-53	Maximum Subarray	37.5%	Medium	
+53	Maximum Subarray	37.5%	Medium(followup:如果数组中所有的entries都是负的，也返回最小值，（就找个最小的负数就可以了）)
 56	Merge Intervals	26.6%	Hard	
 57	Insert Interval	24.9%	Hard	设计一个class，支持addInterval()和getWeightedSum()
 65	Valid Number	12.4%	Hard	
@@ -21,12 +21,12 @@
 150	Evaluate Reverse Polish Notation	24.7%	Medium	
 152	Maximum Product Subarray	23.2%	Medium	
 156	Binary Tree Upside Down 	40.0%	Medium	
-170	Two Sum III - Data structure design 	23.0%	Easy	
+170	Two Sum III - Data structure design 	23.0%	Easy(followup: 要求Constant time检查当前数据结构里是否有两个number可以sum up to target)
 173	Binary Search Tree Iterator	36.5%	Medium	
 187	Repeated DNA Sequences	27.4%	Medium	
 198	House Robber	35.9%	Easy	
 205	Isomorphic Strings	31.1%	Easy	(followup: 多个word)
-236	Lowest Common Ancestor of a Binary Tree	29.0%	Medium	
+236	Lowest Common Ancestor of a Binary Tree	29.0%	Medium	(如果给你父节点，如何去做)
 238	Product of Array Except Self	44.7%	Medium	
 243	Shortest Word Distance 	48.5%	Easy	
 244	Shortest Word Distance II 	35.4%	Medium	
@@ -44,7 +44,12 @@
 
 
 NEW:
-272, 98， 10， 12， 160， 235， 516， 373 （不是sum，而是product）
-20， 146， 671， 547, 605
+272, 98， 10， (12， 13)
+160 (follow up: two linked lists, both of them may have cycle, and how you know that if they have intersection.)， 235， 516， 373 （不是sum，而是product）
+20， 
+146 
+671， 547, 605
+380 (random remove)
+141
 
 lint code 612
