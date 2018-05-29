@@ -45,11 +45,12 @@
 
 NEW:
 272, 98， 10， (12， 13)
-160 (follow up: two linked lists, both of them may have cycle, and how you know that if they have intersection.)， 235， 516， 373 （不是sum，而是product）
+160 (follow up: two linked lists, both of them may have cycle, and how you know that if they have intersection.)， 
+235， 516， 373 （不是sum，而是product）
 20， 
 146 
 671， 547, 605
 380 (random remove)
-141
+141 (done)
 
 lint code 612
