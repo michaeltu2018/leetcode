@@ -26,7 +26,7 @@
 187	Repeated DNA Sequences	27.4%	Medium	
 198	House Robber	35.9%	Easy	
 205	Isomorphic Strings	31.1%	Easy	(followup: 多个word)
-236	Lowest Common Ancestor of a Binary Tree	29.0%	Medium	(如果给你父节点，如何去做)
+236	Lowest Common Ancestor of a Binary Tree	29.0%	Medium	(如果给你父节点，如何去做) (done)
 238	Product of Array Except Self	44.7%	Medium	
 243	Shortest Word Distance 	48.5%	Easy	
 244	Shortest Word Distance II 	35.4%	Medium	
@@ -44,9 +44,11 @@
 
 
 NEW:
-272, 98， 10， (12， 13)
+272 (done), 98， 10， (12， 13)
 160 (follow up: two linked lists, both of them may have cycle, and how you know that if they have intersection.)， 
-235， 516， 373 （不是sum，而是product）
+235，  (done)
+516， 
+373 （不是sum，而是product）
 20， 
 146 
 671， 547, 605
