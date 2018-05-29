@@ -1,4 +1,4 @@
-1	Two Sum	25.7%	Easy	
+1	Two Sum	25.7%	Easy	(done)
 21	Merge Two Sorted Lists	36.6%	Easy	 (done)
 23	Merge k Sorted Lists	24.5%	Hard	(done)
 33	Search in Rotated Sorted Array	31.0%	Hard	（followup 81 (duplicate)） (done)
