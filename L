@@ -1,8 +1,8 @@
 1	Two Sum	25.7%	Easy	
-21	Merge Two Sorted Lists	36.6%	Easy	
-23	Merge k Sorted Lists	24.5%	Hard	
-33	Search in Rotated Sorted Array	31.0%	Hard	（followup 81 (duplicate)）
-34	Search for a Range	30.0%	Medium	
+21	Merge Two Sorted Lists	36.6%	Easy	 (done)
+23	Merge k Sorted Lists	24.5%	Hard	(done)
+33	Search in Rotated Sorted Array	31.0%	Hard	（followup 81 (duplicate)） (done)
+34	Search for a Range	30.0%	Medium	 (done)
 46	Permutations	37.7%	Medium	
 47	Permutations II	29.3%	Medium	
 50	Pow(x, n)	27.6%	Medium	
