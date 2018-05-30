@@ -13,8 +13,8 @@
 68	Text Justification	16.9%	Hard	
 76	Minimum Window Substring	22.3%	Hard	
 101	Symmetric Tree	35.3%	Easy	
-102	Binary Tree Level Order Traversal	34.5%	Easy	
-103	Binary Tree Zigzag Level Order Traversal	30.2%	Medium	
+102	Binary Tree Level Order Traversal	34.5%	Easy	(done)
+103	Binary Tree Zigzag Level Order Traversal	30.2%	Medium	 (done)
 104	Maximum Depth of Binary Tree	49.2%	Easy	
 127	Word Ladder	19.7%	Medium	
 149	Max Points on a Line	14.9%	Hard	
