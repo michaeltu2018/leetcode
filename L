@@ -5,7 +5,7 @@
 34	Search for a Range	30.0%	Medium	 (done)
 46	Permutations	37.7%	Medium	
 47	Permutations II	29.3%	Medium	
-50	Pow(x, n)	27.6%	Medium	
+50	Pow(x, n)	27.6%	Medium	(done)
 53	Maximum Subarray	37.5%	Medium(followup:如果数组中所有的entries都是负的，也返回最小值，（就找个最小的负数就可以了）)
 56	Merge Intervals	26.6%	Hard	
 57	Insert Interval	24.9%	Hard	设计一个class，支持addInterval()和getWeightedSum()
