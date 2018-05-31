@@ -21,7 +21,9 @@
 150	Evaluate Reverse Polish Notation	24.7%	Medium	
 152	Maximum Product Subarray	23.2%	Medium	
 156	Binary Tree Upside Down 	40.0%	Medium	
-170	Two Sum III - Data structure design 	23.0%	Easy(followup: 要求Constant time检查当前数据结构里是否有两个number可以sum up to target)
+170	Two Sum III - Data structure design 	23.0%	Easy
+(followup: 要求Constant time检查当前数据结构里是否有两个number可以sum up to target)
+（done）
 173	Binary Search Tree Iterator	36.5%	Medium	
 187	Repeated DNA Sequences	27.4%	Medium	
 198	House Robber	35.9%	Easy	
