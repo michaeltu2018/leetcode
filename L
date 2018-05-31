@@ -17,7 +17,7 @@
 103	Binary Tree Zigzag Level Order Traversal	30.2%	Medium	 (done)
 104	Maximum Depth of Binary Tree	49.2%	Easy	
 127	Word Ladder	19.7%	Medium	
-149	Max Points on a Line	14.9%	Hard	
+149	Max Points on a Line	14.9%	Hard	(done)
 150	Evaluate Reverse Polish Notation	24.7%	Medium	
 152	Maximum Product Subarray	23.2%	Medium	
 156	Binary Tree Upside Down 	40.0%	Medium	
@@ -36,7 +36,7 @@
 254	Factor Combinations 	37.2%	Medium	
 256	Paint House 	44.2%	Medium	
 277	Find the Celebrity 	35.5%	Medium	
-297	Serialize and Deserialize Binary Tree	29.4%	Hard	
+297	Serialize and Deserialize Binary Tree	29.4%	Hard	(done)
 311	Sparse Matrix Multiplication 	48.6%	Medium	
 339	Nested List Weight Sum 	58.1%	Easy	
 364	Nested List Weight Sum II 	48.3%	Medium	
