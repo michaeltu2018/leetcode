@@ -51,7 +51,7 @@ NEW:
 373 （不是sum，而是product）
 20， 
 146 
-671， 547(done), 605
+671(done)， 547(done), 605
 380 (random remove)
 141 (done)
 
