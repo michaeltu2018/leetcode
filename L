@@ -20,7 +20,7 @@
 149	Max Points on a Line	14.9%	Hard	(done)
 150	Evaluate Reverse Polish Notation	24.7%	Medium	
 152	Maximum Product Subarray	23.2%	Medium	
-156	Binary Tree Upside Down 	40.0%	Medium	
+156	Binary Tree Upside Down 	40.0%	Medium	 (done)电
 170	Two Sum III - Data structure design 	23.0%	Easy
 (followup: 要求Constant time检查当前数据结构里是否有两个number可以sum up to target)
 （done）
@@ -38,8 +38,8 @@
 277	Find the Celebrity 	35.5%	Medium	
 297	Serialize and Deserialize Binary Tree	29.4%	Hard	(done)
 311	Sparse Matrix Multiplication 	48.6%	Medium	
-339	Nested List Weight Sum 	58.1%	Easy	
-364	Nested List Weight Sum II 	48.3%	Medium	
+339	Nested List Weight Sum 	58.1%	Easy	(done)电
+364	Nested List Weight Sum II 	48.3%	Medium	(done)电
 366	Find Leaves of Binary Tree 	53.8%	Medium	
 367	Valid Perfect Square	36.6%	Medium
 
